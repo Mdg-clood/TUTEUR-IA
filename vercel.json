@@ -11,11 +11,5 @@
       "src": "/(.*)",
       "dest": "api/index.py"
     }
-  ],
-  "env": {
-    "OPENAI_API_KEY": "@openai_api_key",
-    "OPENAI_MODEL": "gpt-4o-mini",
-    "GEMINI_MODEL": "gemini-2.0-flash-lite",
-    "TUTOR_NAME": "AskGL"
-  }
+  ]
 }
